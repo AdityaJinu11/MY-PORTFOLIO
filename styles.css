@@ -139,7 +139,7 @@ a { color: inherit; }
   position: relative;
   isolation: isolate;
   overflow: hidden;
-  background: radial-gradient(ellipse at 78% 48%, rgba(148, 13, 20, .22), transparent 40%), linear-gradient(115deg, #0b0b0e 0%, #111014 55%, #18090c 100%);
+  background: radial-gradient(ellipse at 78% 48%, rgba(148, 13, 20, .2), transparent 40%), linear-gradient(115deg, rgba(11, 11, 14, .72) 0%, rgba(17, 16, 20, .72) 55%, rgba(24, 9, 12, .72) 100%);
 }
 
 .hero::before {
